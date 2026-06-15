@@ -4,7 +4,7 @@
 
 ## 1. Problem
 
-Several students from the **Institute of Computing at ** are preparing to participate in the **Brazilian Programming Marathon (SBC)** ([http://maratona.sbc.org.br](http://maratona.sbc.org.br)). In this competition, teams submit source code to solve problems, using evaluation systems known as **Online Judges (OJ)**.
+Several students from the **Institute of Computing at [University]** are preparing to participate in the **Brazilian Programming Marathon (SBC)** ([http://maratona.sbc.org.br](http://maratona.sbc.org.br)). In this competition, teams submit source code to solve problems, using evaluation systems known as **Online Judges (OJ)**.
 
 An OJ assesses the code by running multiple test cases and returning one of the following results:
 

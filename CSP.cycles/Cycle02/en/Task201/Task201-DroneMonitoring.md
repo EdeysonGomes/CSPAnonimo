@@ -46,7 +46,7 @@ The report should describe the system's operations and include at least **two ex
 
 | Date  | Tutorial Session             |
 | ----- | ---------------------------- |
-| 03/24 | Tutorial Session – Problem 1 |
+|  | Tutorial Session – Problem 1 |
 | 03/31 | Tutorial Session – Problem 1 |
 | 04/03 | Solution Submission          |
 
