@@ -1,4 +1,4 @@
-# Competency Specification Report: Task204 – Online Judges at Logistic Solutions
+# Competency Specification Report: Task204 – Online Judges at [SPARTUP]
 
 
 ## 1. Task Description Analysis

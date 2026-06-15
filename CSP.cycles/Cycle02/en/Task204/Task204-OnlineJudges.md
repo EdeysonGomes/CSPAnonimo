@@ -1,4 +1,4 @@
-# Problem 4: Online Judges at Logistic Solutions
+# Problem 4: Online Judges at [SPARTUP]
 
 
 
@@ -14,19 +14,19 @@ An OJ assesses the code by running multiple test cases and returning one of the 
 4. **CE – Compilation Error**: Program failed to compile (warnings are not errors).
 5. **RE – Runtime Error**: Program crashed due to issues like invalid memory access or division by zero.
 
-During marathon training, student Carlos encountered an interesting OJ problem related to logistics — the **Traveling Salesman Problem (TSP)**. He shared it with his startup team at **Logistic Solutions**, who began submitting code for it. After correcting compilation and runtime errors (CE and RE) and eliminating wrong answers (WA), all submissions still returned the same result: **TLE**.
+During marathon training, student [XPTO] encountered an interesting OJ problem related to logistics — the **Traveling Salesman Problem (TSP)**. He shared it with his startup team at **[SPARTUP]**, who began submitting code for it. After correcting compilation and runtime errors (CE and RE) and eliminating wrong answers (WA), all submissions still returned the same result: **TLE**.
 
 Despite the team’s experience, they started to wonder:
 
 * Was it a logic flaw or an inadequate approach?
 * What strategies could lead to an **AC** result for the TSP?
 
-Additionally, the startup managers became interested in the OJ's functionality and asked Carlos to investigate:
+Additionally, the startup managers became interested in the OJ's functionality and asked [XPTO] to investigate:
 
 * Whether the OJ can evaluate other types of problems.
 * Whether the OJ can detect if a program will enter an **infinite loop**.
 
-Carlos brought these questions to his teammates in the **Theory of Computation** course. They realized that OJ behavior could be modeled using a **Finite State Machine (FSM)** to:
+[XPTO] brought these questions to his teammates in the **Theory of Computation** course. They realized that OJ behavior could be modeled using a **Finite State Machine (FSM)** to:
 
 * Represent transitions between different evaluation outcomes (AC, WA, TLE, etc.).
 * Illustrate how the OJ works and explain its logic to both programmers and management.

@@ -1,4 +1,4 @@
-# **CSP-Adjustments — TASK204: Online Judges at Logistic Solutions**
+# **CSP-Adjustments — TASK204: Online Judges at [SPARTUP]**
 
 ## 1. Purpose of the Adjustments
 

@@ -1,4 +1,4 @@
-# **CSRP-Report — TASK204: Online Judges at Logistic Solutions**
+# **CSRP-Report — TASK204: Online Judges at [SPARTUP]**
 
 ## 1. Introduction
 
