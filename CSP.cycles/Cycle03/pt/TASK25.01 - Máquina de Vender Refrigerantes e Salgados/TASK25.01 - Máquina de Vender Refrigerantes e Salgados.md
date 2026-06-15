@@ -5,7 +5,7 @@
 
 A empresa **Refrigerantes e Salgados S.A.** resolveu desenvolver novas soluções para as suas máquinas de vender refrigerantes e salgados, baseadas em projetos de hardware e software bem estruturados, acompanhados de uma documentação precisa e de fácil uso.
 
-A ideia surgiu quando um técnico de informática da empresa estava conversando com um grupo de estudantes da [UNIVERSIDADE]]. Eles perceberam que há algumas máquinas de estados, chamados **autômatos**, que atendem às funcionalidades das máquinas de venda, além de usarem pouca memória e serem de simples configuração.
+A ideia surgiu quando um técnico de informática da empresa estava conversando com um grupo de estudantes da [UNIVERSIDADE]. Eles perceberam que há algumas máquinas de estados, chamados **autômatos**, que atendem às funcionalidades das máquinas de venda, além de usarem pouca memória e serem de simples configuração.
 
 As máquinas da empresa devem ser configuradas para vender no mínimo **três (3) produtos** e receber **moedas e notas de R\$ 1,00 e R\$ 2,00**, além de prever a funcionalidade de **troco**. No portfólio da empresa há opções para venda de:
 - refrigerantes de **R\$ 5,00** e **R\$ 7,00**;
@@ -23,7 +23,7 @@ O técnico de informática prometeu um **bônus adicional** se eles conseguirem 
 
 ## 2. Produto
 
-Você deverá postar no **LMS** até [DATA]], no espaço apropriado para tal:
+Você deverá postar no **LMS** até [DATA], no espaço apropriado para tal:
 
 1. Um **arquivo com um autômato** que contenha uma máquina de vender refrigerantes e salgados, de forma que a equipe de tecnologia da empresa **Refrigerantes e Salgados S.A.** possa testar/simular no **[SIMULADOR]**;  
 2. Um **relatório no modelo de artigos da SBC**[^2] (Sociedade Brasileira de Computação) que descreva com o máximo de detalhes o funcionamento do sistema da máquina de vender refrigerantes e salgados.

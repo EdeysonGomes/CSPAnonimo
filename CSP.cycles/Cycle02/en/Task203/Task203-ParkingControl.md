@@ -24,7 +24,7 @@ One of the company’s partners, a Computing student at , brought this real-worl
 
 The analysis and presentation of the solution must reflect not only its practical implementation but also its theoretical foundation, connecting the real-world issue to the concepts of **Formal Languages and Computation Theory**.
 
-The suggested tool for simulating the parking control system is [[SIMULATOR]](http://www.[SIMULATOR].org).
+The suggested tool for simulating the parking control system is [[SIMULATOR](http://www.[SIMULATOR].org).
 
 
 

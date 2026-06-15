@@ -19,7 +19,7 @@ Additionally, the students discovered a simple mathematical expression commonly 
 
 The company is also interested in investigating the feasibility of establishing a rule to determine the minimum number of states and transitions required for the finite state machine based on the number of monitored events. This would help create more accurate budgets and optimize prototype development.
 
-The recommended tool to simulate the drone surveillance module is [[SIMULATOR]](http://www.[SIMULATOR].org).
+The recommended tool to simulate the drone surveillance module is [[SIMULATOR](http://www.[SIMULATOR].org).
 
 
 ## 2. Process

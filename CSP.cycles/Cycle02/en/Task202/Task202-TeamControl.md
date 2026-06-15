@@ -28,7 +28,7 @@ Furthermore, the students noted that the initial surveillance module developed i
 
 Lastly, *SOS Florestal* expressed interest in a **formal notation** that would document the rules for generating teams in a clear and structured manner. This notation would be useful for both operational control and future improvements.
 
-The suggested tool to simulate the team control module is [[SIMULATOR]](http://www.[SIMULATOR].org).
+The suggested tool to simulate the team control module is [[SIMULATOR](http://www.[SIMULATOR].org).
 
 
 

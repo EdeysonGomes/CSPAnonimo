@@ -47,7 +47,7 @@ Os estudantes devem:
 
 ## 2. Entregáveis
 
-A submissão dos entregáveis deve ser feita via [UNIVERSIDADE], até [DATA]].
+A submissão dos entregáveis deve ser feita via [UNIVERSIDADE], até [DATA].
 
 A equipe deverá:
 
